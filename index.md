@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Hi
 
-You can use the [editor on GitHub](https://github.com/aishwaryachess/aishwaryachess.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Aishwarya! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a chess coach and International Rated chess player with elo Rating of 1582. I have background in commerce and later decided to pursue my passion in chess. I am interested in exploring ways chess can help child nurture their problem solving skills. Chess is compulsory part of curriculum in countries such as Russia and Sweden owning to immense benefit this sport can bring in a child's life. I wish to envision a day when every child gets opportunity to learn chess in the school right from primary grade and wish to work towards the same. I have also designed chess curriculum (iteratively revising it!) for beginners which has shown promise owning overwhelming feedback. Currently, its being implemented in 2 places as part of my after-school chess academy in collaboration with leading institutes in Delhi.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Professional Experience
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aishwaryachess/aishwaryachess.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Chess (2005 – Present): International Chess Player with FIDE rating 1607, played 8 international tournaments
+- Secured 14th rank in Asian Youth Chess Championship in under 10 girls category held at New Delhi on December 2005
+- Declared winner of Delhi University Inter College Chess Competition in the academic year of 2014-15 and 2015-16
+- Secured 1st position in North Zone Inter University Chess Championship 2015-16
+- Secured 3rd position in All India Inter University Chess Championship 2015-16
+- Represented Jharkhand State more than eight times in National Level from 2006-13
+- Secured 1st in 4th position in Jharkhand State Chess Championship held between 2005 and 2013
+- Secured consecutively 1st positions in All India Inter DPS Chess Championship held in 2007-08, 2008-09 and 2010-11
+- Secured 1st position in CBSE National Chess Championship in under 19 girls individual category held in 2011-12
+- Secured 1st & 2nd position in CBSE National Chess championship in under 14 girls category held in 2008-09 & 2009-10
+- Secured 1st position in CBSE East Zone Chess Tournament 2010-11 & 2013-14 respectively in (under 19 age group)
+- Secured 1st - 3rd positions in every CBSE East Zone Chess Tournament (under 14 age group) held between 2005 & 2010
+o Secured 1st position in every Dhanbad District Chess Championship women category held between 2005 and 2013
