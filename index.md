@@ -1,7 +1,7 @@
 <img vspace="10" hspace="10" align="right" width="200" height="200" src="/pic.png"> 
 I am a chess coach and International Rated chess player with elo Rating of 1582. I have background in commerce and later decided to pursue my passion in chess. I am interested in exploring ways chess can help child nurture their problem solving skills. Chess is part of curriculum in many schools across the world. Armenia was the first country to make it compulsary in schools owning to immense benefit this sport brings in a child's life. I wish to envision a day when every child gets opportunity to learn chess in the school right from primary grade and hence taking my first step towards the same. I have also designed a chess curriculum (iteratively revising it!) for beginners which has shown promise based on overwhelming feedback. Currently, its being implemented at 2 places as part of the after-school chess academy in collaboration with leading institutes in Delhi. 
 
-#### Work Experience  
+## Work Experience  
 
 November 2019 - current  
 **Prudence School**, New Delhi, _Chess Coach_  
@@ -9,7 +9,7 @@ November 2019 - current
 May 2019 - November 2019  
 **Nurtr**, Gurgaon , _Product Associate_ 
 
-#### Professional Experience
+## Professional Experience
 
 - Chess (2005 – Present): International Chess Player with FIDE rating 1582, played 8 international tournaments
 - Secured 3rd position in Delhi State Women Chess Championship 2019
