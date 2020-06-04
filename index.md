@@ -3,6 +3,8 @@ I am a chess coach and International Rated chess player with elo Rating of 1582.
 Chess is part of curriculum in many schools across the world. Armenia was the first country to make it compulsary in schools owning to immense benefit this sport brings in a child's life. I wish to envision a day when every child gets opportunity to learn chess in the school right from primary grade and hence taking my first step towards the same.  
 I am also working in collaboration with leading institutes in Delhi as part of after-school chess academy.
 
+Email: aishwarya4080@gmail.com
+
 ## Work Experience  
 
 November 2019 - current  
