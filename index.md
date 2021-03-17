@@ -1,7 +1,7 @@
 
 <img vspace="10" hspace="10" align="right" width="200" height="200" src="/pic.png"> 
 
-I am a chess educator and International Rated chess player with elo Rating of 1582. I graduated from Shri Ram College of Commerce (SRCC)  in commerce discipline and later decided to pursue my passion in chess. I am interested in exploring ways chess can help child nurture their problem solving skills. Chess is part of curriculum in many schools across the world due to cognitive development benefits this sport brings in a child’s life. I am working towards designing equitable learning opportunities to popularize chess among young people.
+I am a chess educator and International Rated chess player with elo Rating of 1582. I graduated from Shri Ram College of Commerce (SRCC) in B.Com. (Hons) in 2017 and later decided to pursue my passion in chess. I am interested in exploring ways chess can help child nurture their problem solving skills. Chess is part of curriculum in many schools across the world due to cognitive development benefits this sport brings in a child’s life. I am working towards designing equitable learning opportunities to popularize chess among young people.
 
 **Email:** aishwarya4080@gmail.com
 
