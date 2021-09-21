@@ -12,9 +12,9 @@ I am a chess educator and International Rated chess player with elo Rating of 15
 - Facilitating online Chess classes for Kids age 5 - 15.
 - Designing customised curriculum
 
-**Working as a Consulting Chess faculty in Kaabil Kids (22nd June 2020 - 31st March 2021)**
+**Consultant Chess faculty in Kaabil Kids (22nd June 2020 - 31st March 2021)**
 
-- Currently conducting online Chess classes for Kids age 5 - 15.
+- Conducted online Chess classes for Kids age 5 - 15.
 - Contributed to the design of the chess curriculum
 
 **Chess Coach at BRCA Club,  IIT Delhi  (March 2019 - Present)**
@@ -26,9 +26,9 @@ I am a chess educator and International Rated chess player with elo Rating of 15
 - Facilitation of regular chess classes for students of Grade 1 to Grade 10.
 - Mentored the Prudence chess team in Delhi State School Team Chess Championship(Shri Raj Kumar Memorial) from 3-5th December 2019. The team secured 1st position out of 17 teams.
 
-**Worked in Nurtr.com as Product Associate - New Delhi (16th May 2019 - 26th Nov 2019)**
+**Product Associate in Nurtr.com, New Delhi (16th May 2019 - 26th Nov 2019)**
 
-- Coordinating and reviewing the chess animation in content and maintaining the accuracy level
+- Coordinated and reviewed the chess animation in content and maintained the accuracy level
 
 **Chess Officiating**
 
