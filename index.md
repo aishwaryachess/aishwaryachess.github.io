@@ -49,7 +49,7 @@ I am a chess educator and International Rated chess player with elo Rating of 15
 
 **Chess (2005 – Present): International Chess Player with FIDE rating 1582, played 8 international rated tournaments**
 
-- Secured 2nd position in Delhi State Women Chess Championship 2021
+- Secured 2nd position in Delhi State Online Women Chess Championship 2021
 - Awarded the title of National Instructor by FIDE (World Chess Federation) in 2020 by successfully clearing the examination.
 - Awarded the title of FIDE Arbiter by FIDE (World Chess Federation) in 2020 by successfully clearing the examination.
 - Secured 3rd position in Delhi State Women Chess Championship 2019
